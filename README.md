@@ -5,12 +5,11 @@
 The Ticket App is for managing tickets, such as creating, editing, and deleting blocks, displaying ticket details.
 
 ## Table of Contents
-
-    [!Prerequisites](#prerequisites)
-    [!Installation](#installation)
-    [!Usage](#usage)
-    [!Dependencies](#dependencies)
-    [!Video Tutorial](#video-tutorial)
+-[Prerequisites](#prerequisites)
+-[Installation](#installation)
+-[Usage](#usage)
+-[Dependencies](#dependencies)
+- [Video Tutorial](#video-tutorial)
 
 ## Prerequisites
 
