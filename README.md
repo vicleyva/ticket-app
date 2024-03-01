@@ -6,11 +6,11 @@ The Ticket App is for managing tickets, such as creating, editing, and deleting 
 
 ## Table of Contents
 
-    [Prerequisites](#prerequisites)
-    [Installation](#installation)
-    [Usage](#usage)
-    [Dependencies](#dependencies)
-    [Video Tutorial](#video-tutorial)
+    [!Prerequisites](#prerequisites)
+    [!Installation](#installation)
+    [!Usage](#usage)
+    [!Dependencies](#dependencies)
+    [!Video Tutorial](#video-tutorial)
 
 ## Prerequisites
 
